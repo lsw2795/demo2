@@ -6,9 +6,13 @@
 <title>index.jsp</title>
 </head>
 <body>
-<h1>jsp - main 페이지입니다.</h1>
-hihihihihihihiㅜ우헿헿ㅎ헤헤헤우헿
-<!-- http://localhost:9091 -->
 
+hihihihihihihiㅜ우헿헿ㅎ헤헤헤우헿
+
+<h1>jsp - main 페이지입니다.!!!</h1>
+으헤헿ㅎ헹 우레헤헿ㅎ헿
+
+<!-- http://localhost:9091 -->
+<h2>담당자가 작성</h2>
 </body>
 </html>
