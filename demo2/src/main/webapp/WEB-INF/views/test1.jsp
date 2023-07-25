@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>test1 page</h1>
+<h2>오류나서수정했어요~~~</h2>
 </body>
 </html>
