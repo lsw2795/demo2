@@ -1,4 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,10 +7,8 @@
 <title>index.jsp</title>
 </head>
 <body>
-
-hihihihihihihiㅜ우헿헿ㅎ헤헤헤우헿
-
 <h1>jsp - main 페이지입니다.!!!</h1>
+
 으헤헿ㅎ헹 우레헤헿ㅎ헿
 
 충돌충돌 정윤이 멍청이 
